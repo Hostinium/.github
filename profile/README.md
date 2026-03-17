@@ -1,48 +1,52 @@
-# Hostinium for Information Technology LLC
+# Hostinium
 
 <p align="center">
-  <b>Enterprise Software Solutions & Innovation</b><br>
+  <b>Enterprise software solutions for operations, service delivery, and document workflows.</b><br>
+  Hostinium for Information Technology LLC<br>
   Wyoming, United States
 </p>
 
 ---
 
-## About Us
+## Company Overview
 
-Hostinium is a software company focused on building **enterprise-grade solutions** that solve real-world business problems. We specialize in queue management, point-of-sale systems, and document processing.
+Hostinium builds practical enterprise software for organizations that need reliable internal systems, efficient customer operations, and secure document processing.
 
-## Our Products
+Our focus is on software that improves day-to-day execution, reduces operational friction, and supports long-term business scalability.
 
-| Product | Description | Status |
-|---------|------------|--------|
-| **qless** | Enterprise Queue Management & POS Solution | 🟢 Active |
-| **CaptureXPro** | Professional Document Capture & Processing Suite | 🟢 Active |
+## Solutions
 
-## Technology
+| Product | Focus | Status |
+| --- | --- | --- |
+| **qless** | Queue management and point-of-sale workflows | Active |
+| **CaptureXPro** | Document capture and processing workflows | Active |
 
-We build with modern, battle-tested technologies:
+## Engineering Approach
 
-- **Backend:** Laravel, PHP, C#, .NET, Python
-- **Frontend:** JavaScript, Vue.js
-- **Infrastructure:** GitHub Enterprise, GitHub Actions CI/CD
-- **Security:** GitHub Advanced Security, CodeQL, Dependabot
+We prioritize:
 
-## Security
+- Clear operational value
+- Stable and maintainable architecture
+- Security-first development practices
+- Controlled delivery through protected main branches
 
-We take security seriously. All our repositories are protected by:
-- ✅ GitHub Advanced Security (GHAS)
-- ✅ CodeQL Code Scanning
-- ✅ Secret Scanning & Push Protection
-- ✅ Dependabot Security Updates
-- ✅ Signed Commits Required
-- ✅ Branch Protection Policies
+## Technology Stack
 
-## Contact
+- Backend: Laravel, PHP, C#, .NET, Python
+- Frontend: JavaScript, Vue.js
+- Delivery: GitHub Enterprise, GitHub Actions
+- Security: GitHub Advanced Security, Dependabot, secret scanning, signed commits
 
-- 🌐 [GitHub Organization](https://github.com/Hostinium)
+## Security Standards
+
+Hostinium repositories are managed with baseline engineering controls, including protected branches, required commit signing, review requirements, dependency monitoring, and secret protection.
+
+## Organization
+
+- GitHub: https://github.com/Hostinium
 
 ---
 
 <p align="center">
-  <sub>Powered by GitHub Enterprise Cloud — GitHub for Startups</sub>
+  <sub>Managed on GitHub Enterprise Cloud.</sub>
 </p>
