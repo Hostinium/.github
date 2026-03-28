@@ -1,52 +1,64 @@
 # Hostinium
 
 <p align="center">
-  <b>Enterprise software solutions for operations, service delivery, and document workflows.</b><br>
+  <strong>Enterprise software for operations, service delivery, and document-driven workflows.</strong><br>
   Hostinium for Information Technology LLC<br>
   Wyoming, United States
 </p>
 
----
+## Overview
 
-## Company Overview
+Hostinium builds practical business software for teams that need reliable internal systems, efficient customer operations, and maintainable long-term platforms.
 
-Hostinium builds practical enterprise software for organizations that need reliable internal systems, efficient customer operations, and secure document processing.
+We focus on products that improve execution quality, reduce operational friction, and turn complex daily processes into structured digital workflows.
 
-Our focus is on software that improves day-to-day execution, reduces operational friction, and supports long-term business scalability.
+## Product Portfolio
 
-## Solutions
+| Product | Focus Area | Summary | Status |
+| --- | --- | --- | --- |
+| **qless** | Queue and service operations | Queue management and point-of-sale workflows for day-to-day operational execution | Active |
+| **CaptureXPro** | Document workflows | Document capture and processing workflows for organizations handling structured records | Active |
+| **Benthium** | Operations platform | Modular business platform for bookings, operations, fleet, inventory, HR, and reporting | Active |
 
-| Product | Focus | Status |
-| --- | --- | --- |
-| **qless** | Queue management and point-of-sale workflows | Active |
-| **CaptureXPro** | Document capture and processing workflows | Active |
+## What We Build
 
-## Engineering Approach
+- Operational platforms for real business workflows
+- Internal systems that prioritize execution clarity and stability
+- Secure, maintainable software with structured delivery practices
+- Products designed to scale with business complexity over time
 
-We prioritize:
+## Engineering Principles
 
-- Clear operational value
+- Clear operational value over unnecessary feature noise
 - Stable and maintainable architecture
 - Security-first development practices
-- Controlled delivery through protected main branches
+- Controlled delivery through protected main branches and review discipline
+- Product thinking aligned with long-term maintainability
 
-## Technology Stack
+## Technology Direction
 
-- Backend: Laravel, PHP, C#, .NET, Python
-- Frontend: JavaScript, Vue.js
-- Delivery: GitHub Enterprise, GitHub Actions
-- Security: GitHub Advanced Security, Dependabot, secret scanning, signed commits
+- Backend: Laravel, PHP, .NET, C#, Python
+- Frontend: Vue.js, Nuxt, JavaScript, TypeScript
+- Delivery: GitHub, Actions-based automation, controlled release workflows
+- Security: secret protection, dependency monitoring, signed commits, review gates
 
-## Security Standards
+## Repository Standards
 
-Hostinium repositories are managed with baseline engineering controls, including protected branches, required commit signing, review requirements, dependency monitoring, and secret protection.
+Hostinium repositories are managed with baseline engineering controls intended for professional delivery environments, including protected branches, review requirements, dependency monitoring, and security-focused repository hygiene.
 
-## Organization
+## Organization Focus
 
-- GitHub: https://github.com/Hostinium
+Hostinium is oriented around enterprise software categories such as:
 
----
+- operations and workflow systems
+- service delivery platforms
+- document-centric process automation
+- internal business tooling
+
+## GitHub Organization
+
+- Organization: https://github.com/Hostinium
 
 <p align="center">
-  <sub>Managed on GitHub Enterprise Cloud.</sub>
+  <sub>Built and maintained with disciplined delivery practices on GitHub.</sub>
 </p>
