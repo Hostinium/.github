@@ -1,78 +1,71 @@
 # Hostinium
 
-<p align="center">
-  <strong>Hostinium is a product-focused software company building operational platforms and structured business systems.</strong><br>
-  Hostinium for Information Technology LLC<br>
-  Wyoming, United States
-</p>
+**Hostinium builds operational software platforms for organizations that need structured execution, long-term maintainability, and disciplined digital workflows.**
+
+Hostinium for Information Technology LLC  
+Wyoming, United States
 
 ## Overview
 
-Hostinium develops company-grade software for organizations that need reliable internal systems, clear operational control, and maintainable long-term platforms.
+Hostinium is a product-focused software company oriented around operational platforms, internal business systems, and structured workflow products.
 
-The organization focuses on products that improve execution quality, reduce operational friction, and convert complex daily work into disciplined digital workflows.
-
-## Product Portfolio
-
-| Product | Focus Area | Summary | Status |
-| --- | --- | --- | --- |
-| **Benthium** | Operations platform | Unified operations platform for bookings, reception, fleet workflows, inventory, staffing, and reporting | Private product |
-| **CaptureXPro** | Document workflows | Structured document capture and processing platform for organizations that depend on disciplined record handling | Private product |
-| **qless** | Queue and service operations | Queue, booking, and point-of-sale platform for high-throughput service environments | Private product |
-| **DrPure Platform** | Digital service presence | Managed web and delivery platform supporting commercial presence and service execution | Private product |
-
-## Private Product Showcase
-
-These products are part of Hostinium's active portfolio and are maintained in private repositories.
-
-Public-facing descriptions are intentionally brief so the business value is clear without exposing internal implementation details, proprietary workflows, or delivery-specific know-how.
-
-- **Benthium**: Designed for operators who need one system for day-to-day control across bookings, operations, staff, assets, and reporting.
-- **CaptureXPro**: Built for teams that need reliable intake, tracking, and processing of structured documents in controlled workflows.
-- **qless**: Focused on queue-led service operations where booking, throughput, and on-site transaction handling need to work together.
-- **DrPure Platform**: A service-oriented web platform used to support digital presence, lead flow, and practical delivery needs.
+The company focuses on software that helps organizations replace fragmented daily work with controlled, maintainable, and scalable systems.
 
 ## What Hostinium Builds
 
-- Operational platforms for real business workflows
-- Internal systems that prioritize execution clarity and stability
-- Secure, maintainable software with structured delivery practices
-- Products designed to scale with business complexity over time
+- operational platforms for real business workflows
+- internal systems that prioritize control, clarity, and reliability
+- software products designed around long-term maintainability
+- secure delivery environments with disciplined engineering practices
 
-## Engineering Principles
+## Product Portfolio
 
-- Clear operational value over unnecessary feature noise
-- Stable and maintainable architecture
-- Security-first development practices
-- Controlled delivery through protected main branches and review discipline
-- Product thinking aligned with long-term maintainability
+| Product | Category | Public Presence | Summary |
+| --- | --- | --- | --- |
+| **Benthium** | Operations platform | Dedicated public showcase | Unified platform for bookings, reception, fleet workflows, inventory, staffing, and reporting |
+| **CaptureXPro** | Document workflow product | Portfolio brief | Structured document capture and processing for document-heavy operational environments |
+| **qless** | Queue and service operations | Portfolio brief | Queue, booking, and point-of-sale platform for throughput-driven service environments |
+| **DrPure Platform** | Digital service platform | Portfolio brief | Managed digital presence and practical service delivery support platform |
 
-## Technology Direction
+## Public Portfolio Paths
 
-- Backend: Laravel, PHP, .NET, C#, Python
-- Frontend: Vue.js, Nuxt, JavaScript, TypeScript
-- Delivery: GitHub, Actions-based automation, controlled release workflows
-- Security: secret protection, dependency monitoring, signed commits, review gates
+- Benthium showcase: [Hostinium/Benthium-Showcase](https://github.com/Hostinium/Benthium-Showcase)
+- Portfolio map: [Public portfolio structure](https://github.com/Hostinium/.github/blob/main/docs/PORTFOLIO.md)
+- CaptureXPro brief: [CaptureXPro public brief](https://github.com/Hostinium/.github/blob/main/docs/products/CaptureXPro.md)
+- qless brief: [qless public brief](https://github.com/Hostinium/.github/blob/main/docs/products/qless.md)
+- DrPure Platform brief: [DrPure Platform public brief](https://github.com/Hostinium/.github/blob/main/docs/products/DrPure-Platform.md)
 
-## Repository Standards
+## Platform Areas
 
-Hostinium repositories are managed with baseline engineering controls intended for professional delivery environments, including protected branches, review requirements, dependency monitoring, and security-focused repository hygiene.
+Hostinium products are built around business-critical domains such as:
 
-Private source repositories are not exposed publicly. Public GitHub content is limited to company presentation, portfolio context, and non-sensitive product summaries.
+- operations and workflow management
+- booking and service execution
+- document-centric process control
+- reporting, auditability, and traceability
+- multi-role internal business systems
 
-## Organization Focus
+## Engineering Direction
 
-Hostinium is oriented around enterprise software categories such as:
+- backend platforms built with Laravel, PHP, .NET, C#, and Python where appropriate
+- frontend systems built with Vue.js, Nuxt, JavaScript, and TypeScript
+- modular architecture favored over monolithic feature sprawl
+- API-driven product boundaries and maintainable delivery patterns
 
-- operations and workflow systems
-- service delivery platforms
-- document-centric process automation
-- internal business tooling
+## Delivery Standards
 
-## GitHub Organization
+- controlled repository governance
+- security-focused dependency and secret hygiene
+- review discipline and protected main branches
+- public-safe documentation with private implementation boundaries
 
-- Organization: https://github.com/Hostinium
+## Public Boundary
 
-<p align="center">
-  <sub>Official company presence on GitHub.</sub>
-</p>
+Public GitHub content is designed to explain product value, category fit, and architecture direction without exposing private code, customer-sensitive workflows, internal operating rules, or replicable delivery detail.
+
+## Company Presence
+
+- Organization: [Hostinium on GitHub](https://github.com/Hostinium)
+- Website: [hostinium.com](https://hostinium.com)
+
+Official company presence on GitHub.
