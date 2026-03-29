@@ -16,9 +16,21 @@ The organization focuses on products that improve execution quality, reduce oper
 
 | Product | Focus Area | Summary | Status |
 | --- | --- | --- | --- |
-| **qless** | Queue and service operations | Queue management and point-of-sale workflows for day-to-day operational execution | Active |
-| **CaptureXPro** | Document workflows | Document capture and processing workflows for organizations handling structured records | Active |
-| **Benthium** | Operations platform | Modular business platform for bookings, operations, fleet, inventory, HR, and reporting | Active |
+| **Benthium** | Operations platform | Unified operations platform for bookings, reception, fleet workflows, inventory, staffing, and reporting | Private product |
+| **CaptureXPro** | Document workflows | Structured document capture and processing platform for organizations that depend on disciplined record handling | Private product |
+| **qless** | Queue and service operations | Queue, booking, and point-of-sale platform for high-throughput service environments | Private product |
+| **DrPure Platform** | Digital service presence | Managed web and delivery platform supporting commercial presence and service execution | Private product |
+
+## Private Product Showcase
+
+These products are part of Hostinium's active portfolio and are maintained in private repositories.
+
+Public-facing descriptions are intentionally brief so the business value is clear without exposing internal implementation details, proprietary workflows, or delivery-specific know-how.
+
+- **Benthium**: Designed for operators who need one system for day-to-day control across bookings, operations, staff, assets, and reporting.
+- **CaptureXPro**: Built for teams that need reliable intake, tracking, and processing of structured documents in controlled workflows.
+- **qless**: Focused on queue-led service operations where booking, throughput, and on-site transaction handling need to work together.
+- **DrPure Platform**: A service-oriented web platform used to support digital presence, lead flow, and practical delivery needs.
 
 ## What Hostinium Builds
 
@@ -45,6 +57,8 @@ The organization focuses on products that improve execution quality, reduce oper
 ## Repository Standards
 
 Hostinium repositories are managed with baseline engineering controls intended for professional delivery environments, including protected branches, review requirements, dependency monitoring, and security-focused repository hygiene.
+
+Private source repositories are not exposed publicly. Public GitHub content is limited to company presentation, portfolio context, and non-sensitive product summaries.
 
 ## Organization Focus
 
